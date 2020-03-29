@@ -1,3 +1,2 @@
 # my-website1
-"this is in update readme"
-"now editing locally"
+"this is a readme file in update-readme branch"
